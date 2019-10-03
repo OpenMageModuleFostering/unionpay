@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/UnionPay",
+    "name": "OpenMageModuleFostering\/UnionPay",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL-3.0)",
     "homepage": "",
     "description": "Planet Payment UPOP integration extension",
     "authors": [
-    {
-        "name": "mohd shamim",
-        "email": "mohds@chetu.com"
-    }
-],
+        {
+            "name": "mohd shamim",
+            "email": "mohds@chetu.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
